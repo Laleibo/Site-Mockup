@@ -9,6 +9,7 @@
 
 .top-text {
   padding-left: 5em;
+  display: flex;
 }
 
 .logo{
@@ -52,6 +53,7 @@
   float: right;
   position: relative;
   bottom: 20px;
+  left: -45px;
 }
 
 .container-fluid {
@@ -59,6 +61,10 @@ margin-right: auto;
 margin-left: auto;
 padding-left: 0px;
 padding-right: 0px;
+}
+
+.container-fluid1 {
+  text-align: center;
 }
 
 .third {
@@ -150,6 +156,7 @@ background: green;
 .rowpic {
 float:  right;
 padding: 30px;
+text-align: center;
 }
 
 .green {
@@ -158,8 +165,6 @@ padding: 30px;
 
 .footer {
   height: 100px;
-  display: flex;
-  flex-direction: column;
   background: gray;
   color: white;
 }
@@ -168,9 +173,16 @@ padding: 30px;
     margin-left: 10em;
     margin-right: 10em;
     border-top: 1px solid white;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
+.leftlink {
+  margin-left: 37em;
+}
 .f1 {
   float:  right;
-  padding: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
