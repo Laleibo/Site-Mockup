@@ -1,0 +1,176 @@
+.first {
+  height: 100vh;
+  background: silver;
+  color: white;
+  border-top: 1px solid white;
+  padding-top: 0px;
+  padding-bottom: 0px;xs
+}
+
+.top-text {
+  padding-left: 5em;
+}
+
+.logo{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+
+
+}
+.text1 {
+  margin-left: 10em;
+  margin-top: 15%;
+
+
+}
+.toppic {
+  position: relative;
+  bottom: 31em;
+  left: 65em;
+
+}
+
+.btn-default {
+  background: green;
+  margin-left: 15%;
+  border-radius: 5px;
+  font-size: 14px
+}
+
+.btn-price1 {
+  color: white;
+}
+
+.rowsec {
+  float: left;
+  padding-top: 30px;
+  padding-bottom: 80px;
+}
+
+.float-button-to-right {
+  float: right;
+  position: relative;
+  bottom: 20px;
+}
+
+.container-fluid {
+margin-right: auto;
+margin-left: auto;
+padding-left: 0px;
+padding-right: 0px;
+}
+
+.third {
+height: 300px;
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+border-top: 1px solid gray;
+
+}
+
+.third h1, .third p {
+  text-align: center;
+}
+
+.btn-mark {
+  padding: 15px,60px;
+  background: white;
+  border-radius: 5px;
+  border-color: gray;
+  color: gray;
+  font-size: 14px;
+  margin: 50%, 50%, 50% ,50%;
+}
+
+.fifth {
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background: gray;
+  color: white;
+  text-align: center;
+}
+
+.fifth h1{
+  text-align: center;
+  }
+
+.btn-group1{
+  margin-top: 2em;
+}
+
+.fifth input {
+  background: gray;
+  color: white;
+  text-align: left;
+  padding-left: 2em;
+  padding-right: 10em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  font-size: 12px;
+}
+.float-button-to-right2 {
+  float: right;
+  position: relative;
+  bottom: 49px;
+  left:170px;
+  font-size: 14px;
+  padding: 15px 35px;
+border-radius: 5px;
+background: green;
+}
+
+.sixth {
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  background: gray;
+  border-top: 1px solid white;
+  color: white;
+}
+
+.content1 {
+  padding-left: 10em;
+  padding-top: 75px;
+  padding-right: 50em;
+  padding-bottom: 10em
+  border-bottom: 1px solid white;
+}
+
+.biopics {
+  padding-right: 9em;
+  position: relative;
+  bottom: 100px;
+}
+.rowpic {
+float:  right;
+padding: 30px;
+}
+
+.green {
+  color: green;
+}
+
+.footer {
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  background: gray;
+  color: white;
+}
+
+.bottom {
+    margin-left: 10em;
+    margin-right: 10em;
+    border-top: 1px solid white;
+}
+
+.f1 {
+  float:  right;
+  padding: 20px;
+}
